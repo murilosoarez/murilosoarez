@@ -20,9 +20,8 @@
 
 <hr>
 
-<p align = 'center'>Looking forward to contribute in the comunity :)</p>
+<p align = 'center'>Looking forward to contribute in the community :)</p>
 
-<img align = 'center' src = "ponyo.gif">
 
 
 
